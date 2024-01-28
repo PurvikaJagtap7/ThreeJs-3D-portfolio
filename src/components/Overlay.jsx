@@ -40,7 +40,7 @@ export const Overlay = () => {
       <div className="w-screen">
         <Section opacity={opacityFirstSection}>
           <h1 className="font-semibold font-serif text-2xl">
-            Hello, I'm Wawa Sensei
+            Hello, I'm Purvika Jagtap
           </h1>
           <p className="text-gray-500">Welcome to my stunning 3D portfolio</p>
           <p className="mt-3">I know:</p>
@@ -62,7 +62,8 @@ export const Overlay = () => {
           <ul className="leading-9">
             <li>ReactJS</li>
             <li>React Native</li>
-            <li>VueJS</li>
+             <li>HTML and CSS</li>
+            <li>Javascript</li>
             <li>Tailwind</li>
           </ul>
           <p className="mt-3">
@@ -72,7 +73,14 @@ export const Overlay = () => {
             <li>NodeJS</li>
             <li>ExpressJS</li>
             <li>NestJS</li>
-            <li>PostgreSQL</li>
+          </ul>
+           <p className="mt-3">
+            <b>Tools & Technologies 💻</b>
+          </p>
+          <ul className="leading-9">
+            <li>NodeJS</li>
+            <li>ExpressJS</li>
+            <li>NestJS</li>
           </ul>
           <p className="animate-bounce  mt-6">↓</p>
         </Section>
