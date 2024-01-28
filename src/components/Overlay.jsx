@@ -90,7 +90,7 @@ export const Overlay = () => {
             🤙 Call me maybe?
           </h1>
           <p className="text-gray-500">
-          📞 <a href="purvikajagtap@gmail.com"> Email: purvikajagtap@gmail.com</a>
+          ✉️ <a href="purvikajagtap@gmail.com"> Email: purvikajagtap@gmail.com</a>
           </p>
           <p className="mt-6 p-3 bg-slate-200 rounded-lg">
             📞 <a href="tel:(+42) 4242-4242-424242">(+91) 8169065298</a>
