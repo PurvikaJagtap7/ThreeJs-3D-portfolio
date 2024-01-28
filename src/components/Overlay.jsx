@@ -87,7 +87,7 @@ export const Overlay = () => {
         </Section>
         <Section opacity={opacityLastSection}>
           <h1 className="font-semibold font-serif text-2xl">
-            🤙 Call me maybe?
+            🤙 Lets Connect
           </h1>
           <p className="text-gray-500">
           ✉️ <a href="purvikajagtap@gmail.com"> Email: purvikajagtap@gmail.com</a>
