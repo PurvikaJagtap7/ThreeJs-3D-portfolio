@@ -45,9 +45,9 @@ export const Overlay = () => {
           <p className="text-gray-500">Welcome to my stunning 3D portfolio</p>
           <p className="mt-3">I know:</p>
           <ul className="leading-9">
-            <li>🧑‍💻 How to code</li>
-            <li>🧑‍🏫 How to learn</li>
-            <li>📦 How to deliver</li>
+            <li>👩🏻💻How to code</li>
+            <li>👩🏻🧠How to learn</li>
+            <li>👩🏻📦How to deliver</li>
           </ul>
           <p className="animate-bounce  mt-6">↓</p>
         </Section></div>
