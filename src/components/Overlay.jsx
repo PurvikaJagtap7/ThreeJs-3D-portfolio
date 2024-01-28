@@ -78,9 +78,10 @@ export const Overlay = () => {
             <b>Tools & Technologies 💻</b>
           </p>
           <ul className="leading-9">
-            <li>NodeJS</li>
-            <li>ExpressJS</li>
-            <li>NestJS</li>
+            <li>VSCode</li>
+            <li>Git & Github</li>
+            <li>Flutter</li>
+            <li>Figma</li>
           </ul>
           <p className="animate-bounce  mt-6">↓</p>
         </Section>
